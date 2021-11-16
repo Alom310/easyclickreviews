@@ -2463,11 +2463,11 @@ blockquote cite:before {
 }
 .full-width-header .rs-header .menu-area.sticky .logo-area {
   display: inline-block;
-  top: 18px;
+  top: 8px;
 }
 .full-width-header .rs-header .menu-area.sticky .logo-area a .sticky-logo {
   display: block;
-  max-height: 30px;
+  max-height: 50px;
 }
 .full-width-header .rs-header .menu-area.sticky .rs-menu-area {
   float: right;
@@ -3138,7 +3138,7 @@ blockquote cite:before {
   float: left;
 }
 .full-width-header .mobile-menu .mobile-logo img {
-  max-height: 30px;
+  max-height: 50px;
 }
 .full-width-header .mobile-menu .rs-menu-toggle {
   color: #ffffff;
@@ -10272,8 +10272,8 @@ body .search-modal .close:hover {
   background: #ff7045;
 }
 .rs-footer.style2 {
-  background: url(assets/images/bg/footer-bg2.jpg);
-  background-color: #F5F6F9;
+  /* background: url(assets/images/bg/footer-bg2.jpg); */
+  background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -10282,7 +10282,7 @@ body .search-modal .close:hover {
   padding: 92px 0 65px;
 }
 .rs-footer.style2 .footer-top .footer-logo img {
-  height: 40px;
+  height: 50px;
 }
 .rs-footer.style2 .footer-top .widget-title {
   color: #ffffff;
