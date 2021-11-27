@@ -4176,13 +4176,19 @@ body .search-modal .close:hover {
   margin-bottom: 20px;
 }
 .rs-slider.style2 .slider-content.slide1 {
-  background: url(assets/images/slider/style2/2.jpg);
+  background: url(assets/images/slider-1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .rs-slider.style2 .slider-content.slide2 {
-  background: url(assets/images/slider/style2/1.jpg);
+  background: url(assets/images/slider-2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.rs-slider.style2 .slider-content.slide3 {
+  background: url(assets/images/slider-3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -6892,7 +6898,7 @@ body .search-modal .close:hover {
   border-width: 1px 1px 1px 1px;
 }
 .rs-pricing .pricing-table.new-style2 {
-  background: unset;
+  /* background: unset; */
   border-style: solid;
   border-color: #EBEBEB;
   border-width: 1px 1px 1px 1px;
@@ -6905,7 +6911,7 @@ body .search-modal .close:hover {
   color: #03228f;
 }
 .rs-pricing.style2.modify1 {
-  background-color: unset;
+  background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%)
 }
 /*------------------------------------
     20. Technology Section CSS
