@@ -215,7 +215,7 @@ body.nav-expanded .offwrap {
   font-weight: 800 !important;
 }
 .gray-color {
-  background-color: #F6F7F9;
+  background-color: lightgray;
 }
 .gray-bg2 {
   background: #f7f9ff;
@@ -1821,7 +1821,7 @@ blockquote cite:before {
   color: #F27C1E;
 }
 .sec-title2 .sub-text.contact {
-  color: #1273EB;
+  color: black;
 }
 .sec-title2 .sub-text.orange-color {
   color: #f2541b !important;
@@ -6911,7 +6911,7 @@ body .search-modal .close:hover {
   color: #03228f;
 }
 .rs-pricing.style2.modify1 {
-  background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%)
+  /* background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%) */
 }
 /*------------------------------------
     20. Technology Section CSS
