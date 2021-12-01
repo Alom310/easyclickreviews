@@ -6910,9 +6910,9 @@ body .search-modal .close:hover {
 .rs-pricing.style2.modify1 .pricing-table .pricing-table-body li i {
   color: #03228f;
 }
-.rs-pricing.style2.modify1 {
-  /* background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%) */
-}
+/* .rs-pricing.style2.modify1 {
+  background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%)
+} */
 /*------------------------------------
     20. Technology Section CSS
 ------------------------------------*/
