@@ -4953,6 +4953,14 @@ body .search-modal .close:hover {
   border-radius: 50px !important;
 }
 
+.eapps-form-element-heading-title {
+  margin-top: 10px !important;
+}
+
+.eapps-form-element-wrapper {
+  margin-bottom: 10px !important;
+}
+
 /* ------------------------------------
     13. Cta Section CSS
 ---------------------------------------*/
