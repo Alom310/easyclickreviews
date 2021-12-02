@@ -4941,16 +4941,16 @@ body .search-modal .close:hover {
 }
 
 .eapps-form-element-container {
-  background-color: white;
-  border-radius: 10px;
+  background-color: white !important;
+  border-radius: 10px !important;
 }
 
 #eapps-form-1 .eapps-form-button, #eapps-form-1 .eapps-form-element-checkbox-options-item input:checked ~ .eapps-form-element-checkbox-options-item-checkmark, #eapps-form-1 .eapps-form-element-radio-options-item input:checked ~ .eapps-form-element-radio-options-item-checkmark, #eapps-form-1 .eapps-form-steps-progress-bar-inner, #eapps-form-1 .eapps-form-element-scale-numbers-options-item-input:checked + .eapps-form-element-scale-numbers-options-item-label, #eapps-form-1 .eapps-form-element-scale-numbers-options-item-input:not(:checked):hover + .eapps-form-element-scale-numbers-options-item-label, .eapps-form-floating-button {
-  background-image: linear-gradient(90deg, #03228f 0%, #4e95ed 100%);
-  padding: 16px 40px 16px 40px;
-  font-weight: 500;
-  font-size: 16px;
-  border-radius: 50px;
+  background-image: linear-gradient(90deg, #03228f 0%, #4e95ed 100%) !important;
+  padding: 16px 40px 16px 40px !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  border-radius: 50px !important;
 }
 
 /* ------------------------------------
