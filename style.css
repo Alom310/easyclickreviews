@@ -4176,19 +4176,19 @@ body .search-modal .close:hover {
   margin-bottom: 20px;
 }
 .rs-slider.style2 .slider-content.slide1 {
-  background: url(assets/images/slider-1.jpg);
+  background: url(assets/images/slider-1-2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .rs-slider.style2 .slider-content.slide2 {
-  background: url(assets/images/slider-2.jpg);
+  background: url(assets/images/slider-2-2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .rs-slider.style2 .slider-content.slide3 {
-  background: url(assets/images/slider-3.jpg);
+  background: url(assets/images/slider-3-3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -10151,7 +10151,7 @@ body .search-modal .close:hover {
   color: #106eea;
 }
 .rs-footer .footer-top .address-widget li i {
-  color: #106eea;
+  color: #ffffff;
   position: absolute;
   left: 0px;
 }
@@ -10302,7 +10302,7 @@ body .search-modal .close:hover {
 }
 .rs-footer.style2 {
   /* background: url(assets/images/bg/footer-bg2.jpg); */
-  background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%);
+  background-image: linear-gradient(90deg, #03228f 10%, #0E73DD 100%);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -10367,7 +10367,7 @@ body .search-modal .close:hover {
 .rs-footer.style2 .footer-bottom {
   background: transparent;
   border-color: rgba(80, 90, 100, 0.56) !important;
-  border-top: 1px solid;
+  /* border-top: 1px solid; */
 }
 .rs-footer.style2 .footer-bottom .copyright p {
   color: #ffffff;
