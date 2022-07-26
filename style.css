@@ -4037,17 +4037,17 @@ body .search-modal .close:hover {
   transform: rotate(26deg);
 }
 .rs-breadcrumbs.img1 {
-  background: url(assets/images/breadcrumbs/1.jpg);
+  background: black;
   background-position: center top;
 }
 .rs-breadcrumbs.img2 {
-  background: url(assets/images/breadcrumbs/2.jpg);
+  background: black;
 }
 .rs-breadcrumbs.img3 {
-  background: url(assets/images/breadcrumbs/3.jpg);
+  background: black;
 }
 .rs-breadcrumbs.img4 {
-  background: url(assets/images/breadcrumbs/4.jpg);
+  background: black;
 }
 /* ------------------------------------
     08. Slider Section CSS
