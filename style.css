@@ -4047,7 +4047,8 @@ body .search-modal .close:hover {
   background: black;
 }
 .rs-breadcrumbs.img4 {
-  background: black;
+  background: url(assets/images/blog/main-home/legal-2.png);
+  background-position: center;
 }
 /* ------------------------------------
     08. Slider Section CSS
