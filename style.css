@@ -4050,6 +4050,10 @@ body .search-modal .close:hover {
   background: url(assets/images/blog/main-home/legal-2.png);
   background-position: center;
 }
+.rs-breadcrumbs.img5 {
+  background: url(assets/images/blog/main-home/dentist-1.jpg);
+  background-position: center;
+}
 /* ------------------------------------
     08. Slider Section CSS
 ---------------------------------------*/
