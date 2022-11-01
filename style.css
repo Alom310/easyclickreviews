@@ -4051,7 +4051,37 @@ body .search-modal .close:hover {
   background-position: center;
 }
 .rs-breadcrumbs.img5 {
-  background: url(assets/images/blog/main-home/dentist-1.jpg);
+  background: url(assets/images/blog/main-home/dental-4.jpg);
+  background-position: center;
+}
+
+.rs-breadcrumbs.img6 {
+  background: url(assets/images/blog/main-home/hvac-1.jpg);
+  background-position: center;
+}
+
+.rs-breadcrumbs.img7 {
+  background: url(assets/images/blog/main-home/micro-2.jpg);
+  background-position: center;
+}
+
+.rs-breadcrumbs.img8 {
+  background: url(assets/images/blog/main-home/moving-2.jpg);
+  background-position: center;
+}
+
+.rs-breadcrumbs.img9 {
+  background: url(assets/images/blog/main-home/car-insurance-2.jpg);
+  background-position: center;
+}
+
+.rs-breadcrumbs.img10 {
+  background: url(assets/images/blog/main-home/notary-2.jpg);
+  background-position: center;
+}
+
+.rs-breadcrumbs.img11 {
+  background: url(assets/images/blog/main-home/remodeling-2.jpg);
   background-position: center;
 }
 /* ------------------------------------
