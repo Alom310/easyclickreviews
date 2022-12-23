@@ -4047,7 +4047,7 @@ body .search-modal .close:hover {
   background: black;
 }
 .rs-breadcrumbs.img4 {
-  background: url(assets/images/blog/main-home/legal-2.png);
+  background: url(assets/images/blog/main-home/legal-2.jpg);
   background-position: center;
 }
 .rs-breadcrumbs.img5 {
@@ -4062,8 +4062,8 @@ body .search-modal .close:hover {
 }
 
 .rs-breadcrumbs.img7 {
-  /* background: url(assets/images/blog/main-home/micro-2.jpg);
-  background-position: center; */
+  background: url(assets/images/blog/main-home/micro-3.jpg);
+  background-position: center;
   background-color: #000;
 }
 
