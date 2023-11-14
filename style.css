@@ -6896,6 +6896,11 @@ body .search-modal .close:hover {
   font-weight: 500;
   display: block;
 }
+.table-price-slash{
+  color:red;
+  font-size: 20px;
+  text-decoration: line-through;
+}
 .rs-pricing .pricing-table .pricing-table-body {
   margin-bottom: 10px;
   border-style: solid;
